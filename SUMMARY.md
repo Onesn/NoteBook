@@ -24,7 +24,7 @@
   * 键值编码
 * [iOS开发高手](ioskai-fa-gao-shou.md)
   * [01 \| 建立你自己的iOS开发知识体系](ioskai-fa-gao-shou/01-jian-lini-zi-ji-de-ios-kai-fa-zhi-shi-ti-xi.md)
-  * 02 \| App 启动速度怎么做优化与监控？
+  * [02 \| App 启动速度怎么做优化与监控？](ioskai-fa-gao-shou/02-app-qi-dong-su-du-zen-yao-zuo-you-hua-yu-jian-kong-ff1f.md)
   * 03 \| Auto Layout 是怎么进行自动布局的，性能如何？
   * 04 \| 项目大了人员多了，架构怎么设计更合理？
   * 05 \| 链接器：符号是怎么绑定到地址上的？
