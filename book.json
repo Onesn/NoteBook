@@ -1,4 +1,5 @@
 {
+    "title" : "XyYang。 Gitbook",
     "plugins": [
         "collapsible-menu",
         "expandable-chapters",
