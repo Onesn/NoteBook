@@ -6,7 +6,8 @@
         "collapsible-menu",
         "expandable-chapters",
 	"splitter",
-	"highlight"
+	"highlight",
+	"back-to-top-button"
     ],
     "styles": {
         "website": "styles/website.css",
