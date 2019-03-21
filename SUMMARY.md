@@ -23,7 +23,57 @@
   * 并行编程
   * 键值编码
 * [iOS开发高手](ioskai-fa-gao-shou.md)
-* iOS面试之道
-* iOS设计模式
-* Python
+* [iOS面试之道](iosmian-shi-zhi-dao.md)
+  * [面试策略](iosmian-shi-zhi-dao/mian-shi-ce-lve.md)
+    * 01 \| 简历的准备
+    * 02 \| 寻找机会
+    * 03 \| 面试流程
+    * 04 \| 代码考查和系统设计的准备
+    * 05 \| 如何提问
+    * 06 \| offer的比较和选择
+  * [算法基础](iosmian-shi-zhi-dao/suan-fa-ji-chu.md)
+    * 01 \| 基本数据结构
+    * 02 \| 链表
+    * 03 \| 栈和队列
+    * 04 \| 二叉树
+    * 05 \| 排序和搜索
+    * 06 \| 深度优先和广度优先
+    * 07 \| 动态规划
+  * [语言工具](iosmian-shi-zhi-dao/yu-yan-gong-ju.md)
+    * 01 \| Swift
+    * 02 \| Objective-C
+    * 03 \| Swift vs. Objective-C
+    * 04 \| Xcode的使用
+  * [系统框架](iosmian-shi-zhi-dao/xi-tong-kuang-jia.md)
+    * 01 \| UIKit
+    * 02 \| UIScrollView及其子类
+    * 03 \| 网络、推送与数据处理
+    * 04 \| 并发编程
+    * 05 \| 设计模式
+  * [经验之谈](iosmian-shi-zhi-dao/jing-yan-zhi-tan.md)
+    * 01 \| 架构的选择
+    * 02 \| 面向协议的编程
+    * 03 \| App的测试和上架
+* [iOS设计模式](iosshe-ji-mo-shi.md)
+  * 设计模式初体验
+  * 对象创建
+  * 接口适配
+  * 对象去耦
+  * 抽象集合
+  * 行为扩展
+  * 算法封装
+  * 性能与对象访问
+  * 对象状态
+* [Python](python.md)
+  * [基础知识](python/ji-chu-zhi-shi.md)
+    * 变量和简单数据类型
+    * 列表简介
+    * 操作列表
+    * if语句
+    * 字典
+    * 用户输入和while循环
+    * 函数
+    * 类
+    * 文件和异常
+    * 测试代码
 
