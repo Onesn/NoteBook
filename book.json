@@ -3,8 +3,7 @@
     "author" : "XyYang。",
     "language" : "zh-hans",
     "plugins": [
-        "collapsible-menu",
-        "expandable-chapters",
+        "chapter-fold",
 	"splitter",
 	"highlight",
 	"back-to-top-button"
