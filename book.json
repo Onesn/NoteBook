@@ -1,6 +1,7 @@
 {
     "title" : "XyYang。 Gitbook",
     "author" : "XyYang。",
+    "language" : "zh-hans",
     "plugins": [
         "collapsible-menu",
         "expandable-chapters",
