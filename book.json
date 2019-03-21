@@ -6,7 +6,8 @@
         "chapter-fold",
 	"splitter",
 	"highlight",
-	"back-to-top-button"
+	"back-to-top-button",
+	"code"
     ],
     "styles": {
         "website": "styles/website.css",
