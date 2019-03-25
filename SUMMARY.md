@@ -2,7 +2,7 @@
 
 * [XyYang。](README.md)
 * [iOS编程基础](iosbian-cheng-ji-chu.md)
-  * 面向对象的编程
+  * [面向对象的编程](iosbian-cheng-ji-chu/mian-xiang-dui-xiang-de-bian-cheng.md)
   * Objective-C程序设计
   * 类和继承
   * 对象的类型和动态绑定
